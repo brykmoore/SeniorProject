@@ -20,7 +20,7 @@ git add -A = adds all files available
 git status = shows the working tree (files to be committed, files not being tracked, etc.)
 
 Typical git workflow:
-git pull
-git commit -a -m "Message"
+- git pull
+- git commit -a -m "Message"
 - Resolve any conflicts - I use source tree for this
-git push
+- git push
