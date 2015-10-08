@@ -1,3 +1,11 @@
+#Coding Standards and Naming Conventions
+- use PascalCasing for class name and method names.
+- use camelCasing for method arguments and local variables.
+- prefix private variables with an underscore.
+- prefix interfaces with the letter I/
+- vertically align curly braces
+- comments belong on their own line, not mixed with code
+
 # Basic git commands:
 
 git pull = git fetch + git merge
