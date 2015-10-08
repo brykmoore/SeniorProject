@@ -17,9 +17,8 @@ git fetch = gets updates from remote and stores in local repo
 git merge = integrates commits in your local branch
 
 git commit = records changes to the repository
-flags ->
--a = All changes
--m = Message
+--a = All changes
+--m = Message
 ex. git commit -a -m "#1230 Adding remove file functionality"
 
 git add = adds specified file to be tracked for changes
